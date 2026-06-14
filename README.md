@@ -3,7 +3,7 @@
 
 <p align="center">
   Hi there 👋, I’m <strong>Mohammad Sleiman</strong><br>
-  A Web Developer focusing on <strong>Frontend</strong> with some experience in <strong>Backend</strong>.<br>
+  A <strong>Full-Stack</strong>strong> Web Developer.<br>
   I love building clean, interactive, and user-friendly interfaces ✨
 </p>
 
