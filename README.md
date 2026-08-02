@@ -26,7 +26,7 @@ I enjoy turning ideas into practical software solutions while continuously impro
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,flutter,git,github,vscode" width="700"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,flutter,git,github,vscode,postman" width="700"/>
 </p>
 
 ---
