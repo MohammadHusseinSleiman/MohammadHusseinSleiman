@@ -18,7 +18,6 @@ I'm a **Junior Full-Stack Developer** passionate about creating modern web appli
 I enjoy turning ideas into practical software solutions while continuously improving my skills and learning better development practices.
 - 💼 Open to **Junior Full-Stack Developer** opportunities
 - 📱 Completed a **Flutter Mobile Development Internship**
-- 🌱 Currently building **AgriERP**, an agricultural enterprise management system
 - 🚀 Continuously learning and improving through real-world projects
 
 ---
