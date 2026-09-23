@@ -53,5 +53,5 @@ A full-stack task management application built with **React.js**, **PHP**, and *
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-sleiman-a4b42b294/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://mohammadhusseinsleiman.github.io/portfolio/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdwebdeveloper25@email.com)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdwebdeveloper25@gmail.com)
 </div>
